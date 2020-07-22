@@ -1,17 +1,22 @@
 body{
     padding: 100px;
+    background-color: rgb(15, 27, 27);
+}
+.text-center{
+    color: teal;
 }
 .submit-area{
     margin-top: 50px;
     box-shadow: 5px 5px 10px gray;
     padding: 50px;
     border-radius: 20px;
+    background-color: rgb(15, 94, 94);
 }
 #transaction-area{
     display: none;
 }
 .status{
-    margin: 0 20px;
+    margin: 5px 20px;
     padding: 40px;
     text-align: center;
     border-radius: 12px;
